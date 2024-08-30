@@ -1,0 +1,7 @@
+.search #content {
+	margin-top: 100px;
+}
+
+.single.search .row a:hover {
+	background-color: transparent !important;
+}
